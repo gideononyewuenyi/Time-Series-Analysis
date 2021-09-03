@@ -1,2 +1,2 @@
 # Time-Series-Forecasting
-Checking for Stationarity
+Checking for Stationarity in Time Series Data
